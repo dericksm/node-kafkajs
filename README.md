@@ -3,8 +3,8 @@ Micro-service with Node.js and Kafka (kafka-js)
 </h1>
 
 
-<p align="center">Node.JS REST API that integrates with a simple(really simple micro-service using Kafka).</p>
+<h4 align="left">Node.JS REST API that integrates with a simple(really simple) micro-service using Kafka.</h4>
 
-<p align="left" style="small">
+<h6 align="left" style="small">
     Original content: https://www.youtube.com/watch?v=-H8pD7sMcfo&ab_channel=Rocketseat
-</p>
+</h6>
